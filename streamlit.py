@@ -59,7 +59,7 @@ with st.container():
  with col3: # calling the animation question
   st_lottie(
     lottie_note,
-    speed=1,
+    speed=0.5,
     reverse=False,
     loop=True,
     quality="high", # medium ; high
