@@ -1,5 +1,5 @@
 # melody.ai
-**This is a simple webpage created using the Streamlit library in Python**
+This is a simple interactive webpage created using the **Streamlit library** in Python
 <p>
 The webpage contains animations imported with the help of the Lottie Files.
 It also takes inputs from the user and there is custom theme creation, done using the .config.toml file.
